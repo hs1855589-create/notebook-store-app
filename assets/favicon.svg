@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Deepanjali Classes favicon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a10f1c"/>
+      <stop offset="1" stop-color="#d32033"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="#111b2a"/>
+  <circle cx="32" cy="32" r="24" fill="url(#g)"/>
+  <text x="32" y="38" text-anchor="middle" font-size="24" font-family="Arial, sans-serif" font-weight="700" fill="#fff">DC</text>
+</svg>
